@@ -10,7 +10,7 @@ Use the phpexcel class.
 
 #installation
 
-Make sure OpenCART has already installed VAMOD.
+Make sure OpenCART has already installed VQMOD.
 
 Install the XML file, then refresh and add permissions to the administrator group. You can find it under Tool / Excel Import Export Tool.
 
