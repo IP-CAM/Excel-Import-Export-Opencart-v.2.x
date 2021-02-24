@@ -1,25 +1,25 @@
-#说明
+# Description
 
-修改来自[Excel格式导入导出数据（单语言版本）](http://www.mycncart.com/index.php?route=product/product&product_id=35)，感谢[原作者](http://www.mycncart.com/index.php?route=product/extension&nickname=%E6%9D%A8%E5%85%86%E9%94%8B)。
+Modify from [Excel Format Import Export Data (single language version)] (http://www.mycncart.com/index.php?route=product/product&product_id=35), thanks [Original Author] (http: // www. Mycncart.com/index.php?route=product/extension&nickname=%e6%9D%A8%E5%85%86%E9%94%8B).
 
-#Excel导入导出工具
+#Excel Import Export Tools
 
-用于Opencart，可以导入导出商品，导出订单地理分布（简单），销售报表（简单）。
+For OpenCART, you can import the export item, export order geographic distribution (simple), sales report (simple).
 
-使用了PHPExcel类。
+Use the phpexcel class.
 
-#安装
+#installation
 
-确保Opencart已经安装vamod。
+Make sure OpenCART has already installed VAMOD.
 
-安装xml文件，然后刷新并为管理员组添加权限。可以在Tool/Excel Import Export Tool下找到。
+Install the XML file, then refresh and add permissions to the administrator group. You can find it under Tool / Excel Import Export Tool.
 
-#vqmod安装
+#vqmod installation
 
-下载[vqmod for opencart](http://www.opencart.com/index.php?route=extension/extension/info&extension_id=19501)，[vqmod](https://github.com/vqmod/vqmod)
+Download [VQMOD for OpenCart] (http://www.opencart.com/index.php?route=extension/extension/info&ofo ts ion_id=19501), [VQMOD] (https://github.com/vqmod/vqmod)
 
-把vqmod文件放到system同级的目录下，执行example.com/vqmod/install，注意权限；
+Put the VQMOD file in the SYSTEM in the same directory, execute the example.com/vqmod/install, pay attention to permissions;
 
-把vqmod for opencart2 的文件解压替换。
+Replace the file of VQMOD for OpenCart2.
 
-注意：模块涉及到数据库中的有些表或字段已经更改，一般会出问题：)
+Note: The module involves some tables or fields in the database that have changed, generally there is a problem :)
